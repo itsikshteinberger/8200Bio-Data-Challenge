@@ -11,7 +11,7 @@ You can find the data [here](https://github.com/itsikshteinberger/8200Bio-Data-C
 * Train a model for each specialty and test it.<br/>
   [The notebook is here](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Training%20%26%20Testing.ipynb).
 
-## Accuracy results
+## Accuracy scores
 Specialty  | Accuracy score
 ------------- | -------------
 Allergy / Immunology  | 96.46%
