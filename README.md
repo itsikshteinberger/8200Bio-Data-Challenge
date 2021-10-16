@@ -4,9 +4,12 @@ that is for each file (unique transcription) need to predict whether it belongs 
 You can find the data [here](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Data/data.csv).
 
 ## My strategy
-* Clear the data and convert it to features.
-* Make the data balanced for a more realistic prediction
-* Train a model for each specialty and test it.
+* Clear the data and convert it to features.<br/>
+  [The notebook is here](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Text%20cleaning%20%26%20processing%20.ipynb).
+* Make the data balanced for a more realistic prediction.<br/>
+  [The notebook is here](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Imbalanced%20data%20handling%20.ipynb).
+* Train a model for each specialty and test it.<br/>
+  [The notebook is here](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Training%20%26%20Testing.ipynb).
 
 ## Accuracy results
 Specialty  | Accuracy score
