@@ -7,6 +7,7 @@ In this challenge the goal was to predict the medical specialty from the transcr
 that is for each file (unique transcription) need to predict whether it belongs to each label (medical specialty).<br/>
 
 You can find the data [here](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Data/data.csv).
+And the full code [here](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Solution.ipynb).
 
 ## My strategy
 
