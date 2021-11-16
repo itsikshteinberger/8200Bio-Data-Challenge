@@ -60,7 +60,7 @@ Except for one specialty, we had great scores.
 <br/>
 
 ## Crush the accuracy with deep learning!
-Since no model returned good results to surgery specialty I decided to build a simple deep learning model for him from 2 fully connected layers. <br/>
+Since no model returned good results to surgery specialty I decided to build a simple deep learning model for it from 2 fully connected layers. <br/>
 ![](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Data/image3.png)
 > Loss curve
 
