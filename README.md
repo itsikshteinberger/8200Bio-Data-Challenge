@@ -60,8 +60,12 @@ Except for one specialty, we had great scores.
 
 ## Crush the accuracy with deep learning!
 Since no model returned good results to surgery specialty I decided to build a simple deep learning model for him from 2 fully connected layers. <br/>
-![]()
+![](https://github.com/itsikshteinberger/8200Bio-Data-Challenge/blob/master/Data/image3.png)
 > Loss curve
+
 <br/> After 30 epochs I got a nice result of 86% - maybe I will play with the network in the future to improve the result.
 When we tested the models on new data we got a nice result of 93%.
+
+<br/>
+__So we can say that pretty good models have been created.__
 
