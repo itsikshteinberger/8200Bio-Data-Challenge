@@ -67,5 +67,6 @@ Since no model returned good results to surgery specialty I decided to build a s
 When we tested the models on new data we got a nice result of 93%.
 
 <br/>
+
 __So we can say that pretty good models have been created.__
 
