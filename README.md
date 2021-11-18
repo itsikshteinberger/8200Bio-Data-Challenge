@@ -11,7 +11,7 @@ And the full code [here](https://github.com/itsikshteinberger/8200Bio-Data-Chall
 
 ## My strategy
 
-* __Word2Vec:__ Convert text to vector of strings not including classification and words meaningless in term of classification.
+* __Text2Vec:__ Convert text to vector of strings not including classification and words meaningless in term of classification.
 <br/><br/>
 * __StringVec2FloatVec:__ Convert Vector Numbers The vector numbers are used using one of the common conversion methods.<br/><br/>
 * __Dealing with unbalanced data:__ The data is not balanced! We will duplicate the underrepresented data so that the classification is balanced.<br/><br/>
